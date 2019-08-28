@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RamashishTomar/portfolio/static/css/main.8001d79f.chunk.css",
+    "main.css": "/RamashishTomar/portfolio/static/css/main.f4a5733f.chunk.css",
     "main.js": "/RamashishTomar/portfolio/static/js/main.79f775d4.chunk.js",
     "main.js.map": "/RamashishTomar/portfolio/static/js/main.79f775d4.chunk.js.map",
     "runtime~main.js": "/RamashishTomar/portfolio/static/js/runtime~main.a4c73bbb.js",
@@ -8,8 +8,8 @@
     "static/js/2.6faa6fbe.chunk.js": "/RamashishTomar/portfolio/static/js/2.6faa6fbe.chunk.js",
     "static/js/2.6faa6fbe.chunk.js.map": "/RamashishTomar/portfolio/static/js/2.6faa6fbe.chunk.js.map",
     "index.html": "/RamashishTomar/portfolio/index.html",
-    "precache-manifest.e6124606e598ebce74005a27a33bf0a2.js": "/RamashishTomar/portfolio/precache-manifest.e6124606e598ebce74005a27a33bf0a2.js",
+    "precache-manifest.e48fd86e1adbfb748795052704b48c8c.js": "/RamashishTomar/portfolio/precache-manifest.e48fd86e1adbfb748795052704b48c8c.js",
     "service-worker.js": "/RamashishTomar/portfolio/service-worker.js",
-    "static/css/main.8001d79f.chunk.css.map": "/RamashishTomar/portfolio/static/css/main.8001d79f.chunk.css.map"
+    "static/css/main.f4a5733f.chunk.css.map": "/RamashishTomar/portfolio/static/css/main.f4a5733f.chunk.css.map"
   }
 }
